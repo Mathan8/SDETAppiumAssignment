@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="145195" started-at="2021-01-09T20:03:48Z" finished-at="2021-01-09T20:06:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="145195" started-at="2021-01-09T20:03:48Z" finished-at="2021-01-09T20:06:13Z">
+      <class name="SDETAssignment.KhanAcademy.TC_01">
+        <test-method status="PASS" signature="bt()[pri:0, instance:SDETAssignment.KhanAcademy.TC_01@12843fce]" name="bt" is-config="true" duration-ms="5030" started-at="2021-01-10T01:33:48Z" finished-at="2021-01-10T01:33:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method status="PASS" signature="TC_001()[pri:0, instance:SDETAssignment.KhanAcademy.TC_01@12843fce]" name="TC_001" duration-ms="75986" started-at="2021-01-10T01:33:53Z" finished-at="2021-01-10T01:35:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001 -->
+        <test-method status="PASS" signature="TC_002()[pri:2, instance:SDETAssignment.KhanAcademy.TC_01@12843fce]" name="TC_002" duration-ms="13571" started-at="2021-01-10T01:35:09Z" finished-at="2021-01-10T01:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002 -->
+        <test-method status="PASS" signature="TC_003()[pri:3, instance:SDETAssignment.KhanAcademy.TC_01@12843fce]" name="TC_003" duration-ms="28428" started-at="2021-01-10T01:35:23Z" finished-at="2021-01-10T01:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_003 -->
+        <test-method status="PASS" signature="TC_004()[pri:4, instance:SDETAssignment.KhanAcademy.TC_01@12843fce]" name="TC_004" duration-ms="12829" started-at="2021-01-10T01:35:51Z" finished-at="2021-01-10T01:36:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_004 -->
+        <test-method status="PASS" signature="TC_005()[pri:5, instance:SDETAssignment.KhanAcademy.TC_01@12843fce]" name="TC_005" duration-ms="9296" started-at="2021-01-10T01:36:04Z" finished-at="2021-01-10T01:36:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_005 -->
+      </class> <!-- SDETAssignment.KhanAcademy.TC_01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
